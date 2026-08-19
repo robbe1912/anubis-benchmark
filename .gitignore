@@ -1,0 +1,4 @@
+corpus/hard_tasks/*/target/
+corpus/hard_tasks/**/anubis_probe.rs
+__pycache__/
+*.log
